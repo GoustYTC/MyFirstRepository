@@ -1,1 +1,1 @@
-ккук
+Console.WriteLine("Hey {0}, are you a beta cuck", _name);
