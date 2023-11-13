@@ -1,3 +1,3 @@
 # MyFirstRepository
-Тут вапщета аписание!
-Знаю про правила ру языка
+A description for this repository
+
