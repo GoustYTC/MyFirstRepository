@@ -1,2 +1,3 @@
 # MyFirstRepository
-Deskription heheh
+Тут вапщета аписание!
+Знаю про правила ру языка
